@@ -1,0 +1,127 @@
+{
+  "type": "application/vnd.labelbox.conversational",
+  "version": 1,
+  "messages": [
+    {
+      "messageId": "message-0",
+      "timestampUsec": 1530718491,
+      "content": "I love iphone! i just bought new iphone! 🥰 📲",
+      "user": {
+        "userId": "Bot 002",
+        "name": "Bot"
+      },
+      "align": "left",
+      "canLabel": false
+    },
+    {
+      "messageId": "message-1",
+      "timestampUsec": 1530718503,
+      "content": "Thats good for you, i'm not very into new tech",
+      "user": {
+        "userId": "User 00686",
+        "name": "User"
+      },
+      "align": "right",
+      "canLabel": true
+    },
+    {
+      "messageId": "message-2",
+      "timestampUsec": 1530718516,
+      "content": "I am a college student and i am a college student 👩🏻‍🏫",
+      "user": {
+        "userId": "Bot 002",
+        "name": "Bot"
+      },
+      "align": "left",
+      "canLabel": false
+    },
+    {
+      "messageId": "message-3",
+      "timestampUsec": 1530718528,
+      "content": "I am go to gym and live on donations 🏋🏿‍♀️",
+      "user": {
+        "userId": "User 00686",
+        "name": "User"
+      },
+      "align": "right",
+      "canLabel": true
+    },
+    {
+      "messageId": "message-4",
+      "timestampUsec": 1530718540,
+      "content": "I am a vegan and i am in the midwest 🌱",
+      "user": {
+        "userId": "Bot 002",
+        "name": "Bot"
+      },
+      "align": "left",
+      "canLabel": false
+    },
+    {
+      "messageId": "message-5",
+      "timestampUsec": 1530718553,
+      "content": "So vegan... i have dogs maybe i should told then that they may eat cheap salads insted of meat 🐩",
+      "user": {
+        "userId": "User 00686",
+        "name": "User"
+      },
+      "align": "right",
+      "canLabel": true
+    },
+    {
+      "messageId": "message-6",
+      "timestampUsec": 1530718565,
+      "content": "I would not mind having them in the office that would be hard for me",
+      "user": {
+        "userId": "Bot 002",
+        "name": "Bot"
+      },
+      "align": "left",
+      "canLabel": false
+    },
+    {
+      "messageId": "message-7",
+      "timestampUsec": 1530718578,
+      "content": "Dogs or vegan in office?",
+      "user": {
+        "userId": "User 00686",
+        "name": "User"
+      },
+      "align": "right",
+      "canLabel": true
+    },
+    {
+      "messageId": "message-8",
+      "timestampUsec": 1530718590,
+      "content": "I am a vegetarian so i am vegan",
+      "user": {
+        "userId": "Bot 002",
+        "name": "Bot"
+      },
+      "align": "left",
+      "canLabel": false
+    },
+    {
+      "messageId": "message-9",
+      "timestampUsec": 1530718603,
+      "content": "Strange answer",
+      "user": {
+        "userId": "User 00686",
+        "name": "User"
+      },
+      "align": "right",
+      "canLabel": true
+    },
+    {
+      "messageId": "message-10",
+      "timestampUsec": 1530718615,
+      "content": "I guess i just do not know what to ps4 experience with.",
+      "user": {
+        "userId": "Bot 002",
+        "name": "Bot"
+      },
+      "align": "left",
+      "canLabel": false
+    }
+  ]
+}
